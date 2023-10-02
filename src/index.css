@@ -11,3 +11,10 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.date{
+  padding-top: 10px;
+  font-style: italic;
+  color: #6c757d;
+  font-size: 0.8rem;
+}
